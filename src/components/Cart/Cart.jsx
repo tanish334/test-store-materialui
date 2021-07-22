@@ -56,4 +56,5 @@ const Cart = ( { cart } ) => {
         </Container>
     )
 }
+
 export default Cart
